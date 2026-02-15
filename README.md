@@ -54,6 +54,7 @@ An imaginary client runs paid ad campaigns on **Social media platforms** but has
                    │   Power BI Desktop   │
                    └──────────────────────┘
 ```
+---
 ## Data Pipeline
 
 ### 1. Bronze – Ingestion & Cost Enrichment
